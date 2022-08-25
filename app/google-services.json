@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "646172087658",
+    "firebase_url": "https://ragastaimusic-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ragastaimusic",
+    "storage_bucket": "ragastaimusic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646172087658:android:0a2c98c6150e4830dc4113",
+        "android_client_info": {
+          "package_name": "com.ysiyoga.acordesragas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646172087658-226aermta2lq1r97vmeehes5hb0hcbfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5dolJBvTJzkxnNho8EkEClf7Ty2gRi94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646172087658-226aermta2lq1r97vmeehes5hb0hcbfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646172087658:android:e882b13354cd8cc2dc4113",
+        "android_client_info": {
+          "package_name": "com.ysiyoga.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646172087658-226aermta2lq1r97vmeehes5hb0hcbfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5dolJBvTJzkxnNho8EkEClf7Ty2gRi94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646172087658-226aermta2lq1r97vmeehes5hb0hcbfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
